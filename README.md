@@ -17,7 +17,7 @@
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,c,bootstrap,html,css,nodejs,mongodb,postgresql,git,github"></img>
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,bootstrap,html,css,typescript,angular,nodejs,mongodb,postgresql,git,github"></img>
 </div>
 <br>
 
