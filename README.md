@@ -4,12 +4,12 @@
 
 <p>
   <em>
-    Tenho 24 anos, estou atualmente no sexto semestre do curso de Ciência da Computação.
+    Tenho 24 anos, estou atualmente no sétimo semestre do curso de Ciência da Computação.
   </em>
 </p>
 
 - 📚 Estudando Ciência da Computação.
-- 🚀 Atualmente me aprofundando em programação para dispositivos moveis.
+- 🚀 Atualmente desenvolvedor fullstack em Memora Processos Inovadores.
 - 📫 Meu email: joao_mothe@hotmail.com
 
 <br>
@@ -17,7 +17,7 @@
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,c,bootstrap,html,css,typescript,angular,nodejs,mongodb,postgresql,git,github"></img>
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,bootstrap,html,css,typescript,primeng,springboot,react,angular,nodejs,mongodb,postgresql,git,github"></img>
 </div>
 <br>
 
