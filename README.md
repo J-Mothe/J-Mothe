@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Tenho 24 anos, estou atualmente no sétimo semestre do curso de Ciência da Computação.
+    Tenho 25 anos, estou atualmente no sétimo semestre do curso de Ciência da Computação.
   </em>
 </p>
 
