@@ -4,11 +4,11 @@
 
 <p>
   <em>
-    Tenho 25 anos, estou atualmente no sétimo semestre do curso de Ciência da Computação.
+    Tenho 26 anos, estou atualmente trabalhando como Dev Full Stack na empresa Memora Processos Inovadores.
   </em>
 </p>
 
-- 📚 Estudando Ciência da Computação.
+- 📚 Formado em Ciência da Computação.
 - 🚀 Atualmente desenvolvedor fullstack em Memora Processos Inovadores.
 - 📫 Meu email: joao_mothe@hotmail.com
 
