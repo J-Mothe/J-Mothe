@@ -33,7 +33,7 @@
 
 <div align="center">
   <p>
-<a href="www.linkedin.com/in/joao-victor-mothé-vantil-aa0458253"> 
+<a href="www.linkedin.com/in/joaovantil"> 
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  <a/><br><br>
 </div>
