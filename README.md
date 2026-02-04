@@ -1,39 +1,41 @@
-<h1 align='center'> Bem vindo ao meu perfil. </h1>
+<h1 align="center">Bem-vindo ao meu perfil 👋</h1>
 
-### 👋 Sobre mim:
-
-<p>
-  <em>
-    Tenho 26 anos, estou atualmente trabalhando como Dev Full Stack na empresa Memora Processos Inovadores.
-  </em>
+<p align="center">
+  Desenvolvedor Full Stack na <b>Memora Processos Inovadores</b> •
+  Bacharel em <b>Ciência da Computação</b>
 </p>
 
-- 📚 Formado em Ciência da Computação.
-- 🚀 Atualmente desenvolvedor fullstack em Memora Processos Inovadores.
-- 📫 Meu email: joao_mothe@hotmail.com
+---
 
-<br>
+## 👨‍💻 Sobre mim
+
+- 💼 Full Stack Developer na **Memora Processos Inovadores**
+- 🎓 Formado em **Ciência da Computação**
+- 📫 Contato: **joao_mothe@hotmail.com**
+
+---
 
 ## ⚡ Tecnologias
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,c,bootstrap,html,css,typescript,spring,react,angular,nodejs,mongodb,postgresql,git,github,gitlab"></img>
-</div>
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,spring,react,angular,nodejs,html,css,bootstrap,c,mongodb,postgresql,git,github,gitlab" />
+</p>
+
+---
 
 ## 📈 Estatísticas
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=J-Mothe&show_icons=true&theme=merko"></img>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=J-Mothe&show_icons=true&theme=merko" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Mothe&layout=compact&theme=merko" />
+</p>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Mothe&layout=compact&theme=merko"></img>
+---
 
+## 🌐 Outros contatos
 
-
-##  Outros contatos
-
-<div align="center">
-  <p>
-<a href="www.linkedin.com/in/joaovantil"> 
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- <a/><br><br>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovantil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
