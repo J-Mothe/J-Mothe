@@ -26,8 +26,8 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=J-Mothe&show_icons=true&theme=merko" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Mothe&layout=compact&theme=merko" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J-Mothe&show_icons=true&theme=merko&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J-Mothe&layout=compact&theme=merko&hide_border=true" />
 </p>
 
 ---
