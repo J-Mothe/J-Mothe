@@ -1,29 +1,35 @@
-<h1 align="center">Bem-vindo ao meu perfil 👋</h1>
+<h1 align="center">Olá, eu sou João Victor Mothé Vantil</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack na <b>Memora Processos Inovadores</b> •
+  Desenvolvedor Full Stack na <b>Memora Processos Inovadores S/A</b> •
   Bacharel em <b>Ciência da Computação</b>
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-- 💼 Full Stack Developer na **Memora Processos Inovadores**
-- 🎓 Formado em **Ciência da Computação**
-- 📫 Contato: **joao_mothe@hotmail.com**
-
----
-
-## ⚡ Tecnologias
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,spring,react,angular,nodejs,html,css,bootstrap,c,mongodb,postgresql,git,github,gitlab" />
+  Atuo no desenvolvimento e evolução de sistemas corporativos web e mobile, com foco em entregas ponta a ponta, integrações com APIs e bancos de dados, qualidade e performance.
 </p>
 
 ---
 
-## 📈 Estatísticas
+## Sobre
+
+<ul>
+  <li><b>Experiência:</b> Desenvolvimento full stack com Java/Spring Boot e Angular/React, integração com bancos relacionais e NoSQL.</li>
+  <li><b>Interesses:</b> Engenharia de software, automação de processos, dados e aplicações com IA.</li>
+  <li><b>Contato:</b> <a href="mailto:joao_mothe@hotmail.com">joao_mothe@hotmail.com</a></li>
+</ul>
+
+---
+
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,angular,react,nodejs,html,css,bootstrap,mongodb,postgresql,mysql,git,github,gitlab" />
+</p>
+
+---
+
+## Estatísticas
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=J-Mothe&show_icons=true&theme=merko" />
@@ -32,7 +38,7 @@
 
 ---
 
-## 🌐 Outros contatos
+## Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaovantil" target="_blank">
